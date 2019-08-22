@@ -1,4 +1,0 @@
-#
-#Wed Aug 21 22:35:29 CEST 2019
-com.nireworks.springdemo.config.AppConfig=org.springframework.stereotype.Component
-com.nireworks.springdemo.mvc.HomeController=org.springframework.stereotype.Component
